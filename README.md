@@ -14,8 +14,7 @@ Topics Covered:
     While Loops
     Conditionals
     Recursions
-    Working with Files
-    Extra Challenges
+    Working with Files   
 
 Repository Structure
 
